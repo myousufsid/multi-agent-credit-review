@@ -1,0 +1,26 @@
+{
+  "_comment": "Fictional document status data for development and testing only. Not real applicant information.",
+  "business_name": "Greenfield Supplies",
+  "required_documents": [
+    {
+      "name": "Recent Bank Statements",
+      "key": "bank_statements",
+      "status": "received"
+    },
+    {
+      "name": "Business Tax Return",
+      "key": "tax_return",
+      "status": "received"
+    },
+    {
+      "name": "Profit and Loss Statement",
+      "key": "profit_loss_statement",
+      "status": "missing"
+    },
+    {
+      "name": "Balance Sheet",
+      "key": "balance_sheet",
+      "status": "received"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "Fictional business data for development and testing only. Not real financial information.",
+  "business_name": "Greenfield Supplies",
+  "credit_line": {
+    "limit": 75000,
+    "currently_used": 68000
+  },
+  "bank_balance": 19000,
+  "upcoming_obligations": {
+    "payroll": 34000,
+    "vendor_payments": 22000
+  },
+  "receivables": {
+    "incoming_amount": 62000,
+    "expected_in_days": 30
+  }
+}

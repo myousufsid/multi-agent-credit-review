@@ -1,0 +1,7 @@
+# Core API server
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+
+# Testing
+pytest==8.3.4
+httpx==0.28.1   # required by FastAPI's TestClient
